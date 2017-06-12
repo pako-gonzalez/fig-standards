@@ -1,12 +1,7 @@
-PHP Framework Interoperability Group
+Grupo de Interoperabilidad de Framework de PHP
 ====================================
 
-The idea behind the group is for project representatives to talk about the
-commonalities between our projects and find ways we can work together. Our main
-audience is each other, but we’re very aware that the rest of the PHP community
-is watching. If other folks want to adopt what we’re doing they are welcome to
-do so, but that is not the aim.
-
+La idea detrás del grupo es que los representantes de los proyectos hablen sobre los puntos en común entre nuestros proyectos y encuentren formas de trabajar juntos. Nuestra audiencia principal es cada uno de los proyectos, pero somos muy conscientes de que el resto de la comunidad de PHP está observando. Si otras personas quieren adoptar lo que estamos haciendo son bienvenidos, pero ese no es el objetivo.
 
 Proposing a Standard Recommendation
 ------------------------------------
